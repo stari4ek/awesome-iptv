@@ -4,11 +4,24 @@ A curated list of resources related to IPTV.
 
 ## Contents
 
-- [Apps](#apps)
-- [Providers](#providers)
-- [Channel data sources](#channel-data-sources)
-- [EPG sources](#epg-sources)
-- [Tools](#tools)
+- [Awesome IPTV](#awesome-iptv)
+  - [Contents](#contents)
+  - [Apps](#apps)
+      - [Windows](#windows)
+      - [macOS](#macos)
+      - [Linux](#linux)
+      - [iOS](#ios)
+      - [Android](#android)
+      - [PlayStation 4](#playstation-4)
+      - [Web](#web)
+  - [Providers](#providers)
+      - [Paid](#paid)
+      - [Free](#free)
+  - [Channel data sources](#channel-data-sources)
+  - [EPG Sources](#epg-sources)
+  - [Tools](#tools)
+  - [Contribution](#contribution)
+  - [License](#license)
 
 ## Apps
 
@@ -60,6 +73,7 @@ Applications with support of IPTV streams.
 - [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) - Powerful video player with advanced hardware acceleration and subtitle support.
 - [FastoTV Lite](https://play.google.com/store/apps/details?id=com.fastotv.lite) - Open source ad-free IPTV client, with support for live media, VOD, favorites list and EPG.
 - [TiviMate IPTV Player](https://play.google.com/store/apps/details?id=ar.tvplayer.tv) - IPTV player for Android platform.
+- [TVirl](https://play.google.com/store/apps/details?id=by.stari4ek.tvirl) - Special Android TV Input Service to integrate IPTV channels to pre-installed system TV App like [Live Channels](https://play.google.com/store/apps/details?id=com.google.android.tv).
 
 #### PlayStation 4
 
